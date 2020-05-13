@@ -1,0 +1,450 @@
+LosAngeles-LongBeachCA,English Only,1,11.5
+LosAngeles-LongBeachCA,English Well,1,76.7
+LosAngeles-LongBeachCA,English Not Well,1,11.8
+LosAngeles-LongBeachCA,English Only,2,33.6
+LosAngeles-LongBeachCA,English Well,2,62.1
+LosAngeles-LongBeachCA,English Not Well,2,4.4
+LosAngeles-LongBeachCA,English Only,3,92.6
+LosAngeles-LongBeachCA,English Well,3,6.8
+LosAngeles-LongBeachCA,English Not Well,3,0.5
+NewYorkNY,English Only,1,14.6
+NewYorkNY,English Well,1,72.6
+NewYorkNY,English Not Well,1,12.7
+NewYorkNY,English Only,2,28.5
+NewYorkNY,English Well,2,67.2
+NewYorkNY,English Not Well,2,4.3
+NewYorkNY,English Only,3,77.5
+NewYorkNY,English Well,3,18.0
+NewYorkNY,English Not Well,3,4.4
+HonoluluHI,English Only,1,26.0
+HonoluluHI,English Well,1,63.9
+HonoluluHI,English Not Well,1,10.1
+HonoluluHI,English Only,2,70.7
+HonoluluHI,English Well,2,28.0
+HonoluluHI,English Not Well,2,1.3
+HonoluluHI,English Only,3,92.6
+HonoluluHI,English Well,3,6.7
+HonoluluHI,English Not Well,3,0.6
+SanJoseCA,English Only,1,13.1
+SanJoseCA,English Well,1,77.3
+SanJoseCA,English Not Well,1,9.6
+SanJoseCA,English Only,2,35.6
+SanJoseCA,English Well,2,59.5
+SanJoseCA,English Not Well,2,4.9
+SanJoseCA,English Only,3,94.8
+SanJoseCA,English Well,3,4.4
+SanJoseCA,English Not Well,3,0.7
+OaklandCA,English Only,1,15.0
+OaklandCA,English Well,1,79.0
+OaklandCA,English Not Well,1,6.1
+OaklandCA,English Only,2,39.9
+OaklandCA,English Well,2,56.1
+OaklandCA,English Not Well,2,4.0
+OaklandCA,English Only,3,93.7
+OaklandCA,English Well,3,5.9
+OaklandCA,English Not Well,3,0.4
+SanFranciscoCA,English Only,1,10.7
+SanFranciscoCA,English Well,1,76.6
+SanFranciscoCA,English Not Well,1,12.7
+SanFranciscoCA,English Only,2,39.5
+SanFranciscoCA,English Well,2,58.1
+SanFranciscoCA,English Not Well,2,2.4
+SanFranciscoCA,English Only,3,86.5
+SanFranciscoCA,English Well,3,12.8
+SanFranciscoCA,English Not Well,3,0.7
+OrangeCountyCA,English Only,1,9.2
+OrangeCountyCA,English Well,1,77.3
+OrangeCountyCA,English Not Well,1,13.5
+OrangeCountyCA,English Only,2,28.7
+OrangeCountyCA,English Well,2,66.9
+OrangeCountyCA,English Not Well,2,4.4
+OrangeCountyCA,English Only,3,93.3
+OrangeCountyCA,English Well,3,6.2
+OrangeCountyCA,English Not Well,3,0.5
+ChicagoIL,English Only,1,14.0
+ChicagoIL,English Well,1,77.8
+ChicagoIL,English Not Well,1,8.2
+ChicagoIL,English Only,2,37.8
+ChicagoIL,English Well,2,58.1
+ChicagoIL,English Not Well,2,4.1
+ChicagoIL,English Only,3,84.2
+ChicagoIL,English Well,3,14.7
+ChicagoIL,English Not Well,3,1.2
+WashingtonDC-MD-VA-WV,English Only,1,15.1
+WashingtonDC-MD-VA-WV,English Well,1,74.4
+WashingtonDC-MD-VA-WV,English Not Well,1,10.5
+WashingtonDC-MD-VA-WV,English Only,2,35.6
+WashingtonDC-MD-VA-WV,English Well,2,60.2
+WashingtonDC-MD-VA-WV,English Not Well,2,4.2
+WashingtonDC-MD-VA-WV,English Only,3,96.6
+WashingtonDC-MD-VA-WV,English Well,3,3.4
+WashingtonDC-MD-VA-WV,English Not Well,3,0.0
+SanDiegoCA,English Only,1,29.1
+SanDiegoCA,English Well,1,65.3
+SanDiegoCA,English Not Well,1,5.5
+SanDiegoCA,English Only,2,59.5
+SanDiegoCA,English Well,2,37.5
+SanDiegoCA,English Not Well,2,3.0
+SanDiegoCA,English Only,3,88.8
+SanDiegoCA,English Well,3,11.2
+SanDiegoCA,English Not Well,3,0.0
+Seattle-Bellevue-EverettWA,English Only,1,16.3
+Seattle-Bellevue-EverettWA,English Well,1,70.5
+Seattle-Bellevue-EverettWA,English Not Well,1,13.2
+Seattle-Bellevue-EverettWA,English Only,2,42.5
+Seattle-Bellevue-EverettWA,English Well,2,52.7
+Seattle-Bellevue-EverettWA,English Not Well,2,4.8
+Seattle-Bellevue-EverettWA,English Only,3,96.1
+Seattle-Bellevue-EverettWA,English Well,3,3.5
+Seattle-Bellevue-EverettWA,English Not Well,3,0.4
+HoustonTX,English Only,1,12.5
+HoustonTX,English Well,1,78.5
+HoustonTX,English Not Well,1,9.0
+HoustonTX,English Only,2,31.1
+HoustonTX,English Well,2,64.5
+HoustonTX,English Not Well,2,4.4
+HoustonTX,English Only,3,81.1
+HoustonTX,English Well,3,14.3
+HoustonTX,English Not Well,3,4.6
+PhiladelphiaPA-NJ,English Only,1,14.2
+PhiladelphiaPA-NJ,English Well,1,77.9
+PhiladelphiaPA-NJ,English Not Well,1,8.0
+PhiladelphiaPA-NJ,English Only,2,32.4
+PhiladelphiaPA-NJ,English Well,2,62.9
+PhiladelphiaPA-NJ,English Not Well,2,4.7
+PhiladelphiaPA-NJ,English Only,3,94.8
+PhiladelphiaPA-NJ,English Well,3,4.0
+PhiladelphiaPA-NJ,English Not Well,3,1.2
+BostonMA-NH,English Only,1,13.2
+BostonMA-NH,English Well,1,75.4
+BostonMA-NH,English Not Well,1,11.4
+BostonMA-NH,English Only,2,27.5
+BostonMA-NH,English Well,2,66.7
+BostonMA-NH,English Not Well,2,5.8
+BostonMA-NH,English Only,3,92.7
+BostonMA-NH,English Well,3,7.3
+BostonMA-NH,English Not Well,3,0.0
+SacramentoCA,English Only,1,13.3
+SacramentoCA,English Well,1,73.7
+SacramentoCA,English Not Well,1,12.9
+SacramentoCA,English Only,2,28.8
+SacramentoCA,English Well,2,63.0
+SacramentoCA,English Not Well,2,8.1
+SacramentoCA,English Only,3,93.7
+SacramentoCA,English Well,3,6.1
+SacramentoCA,English Not Well,3,0.2
+Riverside-SanBernardinoCA,English Only,1,27.2
+Riverside-SanBernardinoCA,English Well,1,67.3
+Riverside-SanBernardinoCA,English Not Well,1,5.5
+Riverside-SanBernardinoCA,English Only,2,49.6
+Riverside-SanBernardinoCA,English Well,2,46.4
+Riverside-SanBernardinoCA,English Not Well,2,4.0
+Riverside-SanBernardinoCA,English Only,3,95.2
+Riverside-SanBernardinoCA,English Well,3,4.2
+Riverside-SanBernardinoCA,English Not Well,3,0.7
+DallasTX,English Only,1,13.5
+DallasTX,English Well,1,76.6
+DallasTX,English Not Well,1,9.9
+DallasTX,English Only,2,30.9
+DallasTX,English Well,2,64.9
+DallasTX,English Not Well,2,4.2
+DallasTX,English Only,3,85.5
+DallasTX,English Well,3,13.0
+DallasTX,English Not Well,3,1.5
+AtlantaGA,English Only,1,10.4
+AtlantaGA,English Well,1,79.6
+AtlantaGA,English Not Well,1,10.1
+AtlantaGA,English Only,2,30.3
+AtlantaGA,English Well,2,62.8
+AtlantaGA,English Not Well,2,6.9
+AtlantaGA,English Only,3,96.3
+AtlantaGA,English Well,3,2.9
+AtlantaGA,English Not Well,3,0.8
+Minneapolis-St.PaulMN-WI,English Only,1,5.1
+Minneapolis-St.PaulMN-WI,English Well,1,80.3
+Minneapolis-St.PaulMN-WI,English Not Well,1,14.6
+Minneapolis-St.PaulMN-WI,English Only,2,23.9
+Minneapolis-St.PaulMN-WI,English Well,2,67.0
+Minneapolis-St.PaulMN-WI,English Not Well,2,9.2
+Minneapolis-St.PaulMN-WI,English Only,3,84.8
+Minneapolis-St.PaulMN-WI,English Well,3,15.2
+Minneapolis-St.PaulMN-WI,English Not Well,3,0.0
+Middlesex-Somerset-HunterdonNJ,English Only,1,14.8
+Middlesex-Somerset-HunterdonNJ,English Well,1,77.6
+Middlesex-Somerset-HunterdonNJ,English Not Well,1,7.6
+Middlesex-Somerset-HunterdonNJ,English Only,2,31.4
+Middlesex-Somerset-HunterdonNJ,English Well,2,65.1
+Middlesex-Somerset-HunterdonNJ,English Not Well,2,3.5
+Middlesex-Somerset-HunterdonNJ,English Only,3,--
+Middlesex-Somerset-HunterdonNJ,English Well,3,--
+Middlesex-Somerset-HunterdonNJ,English Not Well,3,--
+DetroitMI,English Only,1,18.5
+DetroitMI,English Well,1,72.3
+DetroitMI,English Not Well,1,9.3
+DetroitMI,English Only,2,38.5
+DetroitMI,English Well,2,57.5
+DetroitMI,English Not Well,2,4.0
+DetroitMI,English Only,3,94.5
+DetroitMI,English Well,3,5.5
+DetroitMI,English Not Well,3,0.0
+Bergen-PassaicNJ,English Only,1,9.5
+Bergen-PassaicNJ,English Well,1,75.1
+Bergen-PassaicNJ,English Not Well,1,15.3
+Bergen-PassaicNJ,English Only,2,27.4
+Bergen-PassaicNJ,English Well,2,65.5
+Bergen-PassaicNJ,English Not Well,2,7.1
+Bergen-PassaicNJ,English Only,3,--
+Bergen-PassaicNJ,English Well,3,--
+Bergen-PassaicNJ,English Not Well,3,--
+Nassau-SuffolkNY,English Only,1,18.1
+Nassau-SuffolkNY,English Well,1,74.4
+Nassau-SuffolkNY,English Not Well,1,7.5
+Nassau-SuffolkNY,English Only,2,42.4
+Nassau-SuffolkNY,English Well,2,54.5
+Nassau-SuffolkNY,English Not Well,2,3.1
+Nassau-SuffolkNY,English Only,3,97.3
+Nassau-SuffolkNY,English Well,3,2.7
+Nassau-SuffolkNY,English Not Well,3,0.0
+Portland-VancouverOR-WA,English Only,1,13.1
+Portland-VancouverOR-WA,English Well,1,76.8
+Portland-VancouverOR-WA,English Not Well,1,10.1
+Portland-VancouverOR-WA,English Only,2,42.4
+Portland-VancouverOR-WA,English Well,2,52.6
+Portland-VancouverOR-WA,English Not Well,2,5.0
+Portland-VancouverOR-WA,English Only,3,95.9
+Portland-VancouverOR-WA,English Well,3,3.3
+Portland-VancouverOR-WA,English Not Well,3,0.8
+LasVegasNV-AZ,English Only,1,35.5
+LasVegasNV-AZ,English Well,1,58.1
+LasVegasNV-AZ,English Not Well,1,6.4
+LasVegasNV-AZ,English Only,2,53.7
+LasVegasNV-AZ,English Well,2,43.1
+LasVegasNV-AZ,English Not Well,2,3.2
+LasVegasNV-AZ,English Only,3,85.2
+LasVegasNV-AZ,English Well,3,12.6
+LasVegasNV-AZ,English Not Well,3,2.1
+NewarkNJ,English Only,1,22.2
+NewarkNJ,English Well,1,70.5
+NewarkNJ,English Not Well,1,7.3
+NewarkNJ,English Only,2,43.7
+NewarkNJ,English Well,2,53.9
+NewarkNJ,English Not Well,2,2.4
+NewarkNJ,English Only,3,--
+NewarkNJ,English Well,3,--
+NewarkNJ,English Not Well,3,--
+Phoenix-MesaAZ,English Only,1,24.4
+Phoenix-MesaAZ,English Well,1,66.9
+Phoenix-MesaAZ,English Not Well,1,8.7
+Phoenix-MesaAZ,English Only,2,52.4
+Phoenix-MesaAZ,English Well,2,45.1
+Phoenix-MesaAZ,English Not Well,2,2.5
+Phoenix-MesaAZ,English Only,3,91.2
+Phoenix-MesaAZ,English Well,3,8.8
+Phoenix-MesaAZ,English Not Well,3,0.0
+BaltimoreMD,English Only,1,17.8
+BaltimoreMD,English Well,1,75.7
+BaltimoreMD,English Not Well,1,6.5
+BaltimoreMD,English Only,2,42.4
+BaltimoreMD,English Well,2,55.5
+BaltimoreMD,English Not Well,2,2.2
+BaltimoreMD,English Only,3,93.1
+BaltimoreMD,English Well,3,6.3
+BaltimoreMD,English Not Well,3,0.6
+DenverCO,English Only,1,18.2
+DenverCO,English Well,1,72.4
+DenverCO,English Not Well,1,9.4
+DenverCO,English Only,2,33.9
+DenverCO,English Well,2,63.5
+DenverCO,English Not Well,2,2.6
+DenverCO,English Only,3,92.9
+DenverCO,English Well,3,6.1
+DenverCO,English Not Well,3,1.0
+Stockton-LodiCA,English Only,1,18.7
+Stockton-LodiCA,English Well,1,71.6
+Stockton-LodiCA,English Not Well,1,9.7
+Stockton-LodiCA,English Only,2,23.5
+Stockton-LodiCA,English Well,2,66.0
+Stockton-LodiCA,English Not Well,2,10.5
+Stockton-LodiCA,English Only,3,92.0
+Stockton-LodiCA,English Well,3,7.4
+Stockton-LodiCA,English Not Well,3,0.7
+FresnoCA,English Only,1,6.1
+FresnoCA,English Well,1,80.1
+FresnoCA,English Not Well,1,13.9
+FresnoCA,English Only,2,16.5
+FresnoCA,English Well,2,74.2
+FresnoCA,English Not Well,2,9.3
+FresnoCA,English Only,3,98.5
+FresnoCA,English Well,3,1.0
+FresnoCA,English Not Well,3,0.5
+Vallejo-Fairfield-NapaCA,English Only,1,27.2
+Vallejo-Fairfield-NapaCA,English Well,1,52.9
+Vallejo-Fairfield-NapaCA,English Not Well,1,19.9
+Vallejo-Fairfield-NapaCA,English Only,2,70.4
+Vallejo-Fairfield-NapaCA,English Well,2,24.7
+Vallejo-Fairfield-NapaCA,English Not Well,2,4.8
+Vallejo-Fairfield-NapaCA,English Only,3,93.3
+Vallejo-Fairfield-NapaCA,English Well,3,6.7
+Vallejo-Fairfield-NapaCA,English Not Well,3,0.0
+JerseyCityNJ,English Only,1,10.5
+JerseyCityNJ,English Well,1,83.8
+JerseyCityNJ,English Not Well,1,5.7
+JerseyCityNJ,English Only,2,37.6
+JerseyCityNJ,English Well,2,59.3
+JerseyCityNJ,English Not Well,2,3.2
+JerseyCityNJ,English Only,3,--
+JerseyCityNJ,English Well,3,--
+JerseyCityNJ,English Not Well,3,--
+FortWorth-ArlingtonTX,English Only,1,15.1
+FortWorth-ArlingtonTX,English Well,1,79.8
+FortWorth-ArlingtonTX,English Not Well,1,5.1
+FortWorth-ArlingtonTX,English Only,2,33.4
+FortWorth-ArlingtonTX,English Well,2,62.1
+FortWorth-ArlingtonTX,English Not Well,2,4.5
+FortWorth-ArlingtonTX,English Only,3,--
+FortWorth-ArlingtonTX,English Well,3,--
+FortWorth-ArlingtonTX,English Not Well,3,--
+Tampa-St.Petersburg-ClearwaterFL,English Only,1,27.5
+Tampa-St.Petersburg-ClearwaterFL,English Well,1,60.8
+Tampa-St.Petersburg-ClearwaterFL,English Not Well,1,11.7
+Tampa-St.Petersburg-ClearwaterFL,English Only,2,42.3
+Tampa-St.Petersburg-ClearwaterFL,English Well,2,55.1
+Tampa-St.Petersburg-ClearwaterFL,English Not Well,2,2.6
+Tampa-St.Petersburg-ClearwaterFL,English Only,3,90.5
+Tampa-St.Petersburg-ClearwaterFL,English Well,3,8.3
+Tampa-St.Petersburg-ClearwaterFL,English Not Well,3,1.2
+Norfolk-VirginiaBeach-NewportNewsVA-NC,English Only,1,53.3
+Norfolk-VirginiaBeach-NewportNewsVA-NC,English Well,1,42.2
+Norfolk-VirginiaBeach-NewportNewsVA-NC,English Not Well,1,4.5
+Norfolk-VirginiaBeach-NewportNewsVA-NC,English Only,2,64.4
+Norfolk-VirginiaBeach-NewportNewsVA-NC,English Well,2,34.1
+Norfolk-VirginiaBeach-NewportNewsVA-NC,English Not Well,2,1.5
+Norfolk-VirginiaBeach-NewportNewsVA-NC,English Only,3,96.2
+Norfolk-VirginiaBeach-NewportNewsVA-NC,English Well,3,3.8
+Norfolk-VirginiaBeach-NewportNewsVA-NC,English Not Well,3,0.0
+OrlandoFL,English Only,1,21.9
+OrlandoFL,English Well,1,72.6
+OrlandoFL,English Not Well,1,5.5
+OrlandoFL,English Only,2,54.3
+OrlandoFL,English Well,2,44.7
+OrlandoFL,English Not Well,2,1.0
+OrlandoFL,English Only,3,--
+OrlandoFL,English Well,3,--
+OrlandoFL,English Not Well,3,--
+Austin-SanMarcosTX,English Only,1,22.9
+Austin-SanMarcosTX,English Well,1,71.0
+Austin-SanMarcosTX,English Not Well,1,6.0
+Austin-SanMarcosTX,English Only,2,38.4
+Austin-SanMarcosTX,English Well,2,56.3
+Austin-SanMarcosTX,English Not Well,2,5.3
+Austin-SanMarcosTX,English Only,3,--
+Austin-SanMarcosTX,English Well,3,--
+Austin-SanMarcosTX,English Not Well,3,--
+TacomaWA,English Only,1,37.8
+TacomaWA,English Well,1,51.5
+TacomaWA,English Not Well,1,10.7
+TacomaWA,English Only,2,48.9
+TacomaWA,English Well,2,46.5
+TacomaWA,English Not Well,2,4.5
+TacomaWA,English Only,3,95.7
+TacomaWA,English Well,3,4.3
+TacomaWA,English Not Well,3,0.0
+VenturaCA,English Only,1,20.7
+VenturaCA,English Well,1,74.0
+VenturaCA,English Not Well,1,5.3
+VenturaCA,English Only,2,55.6
+VenturaCA,English Well,2,42.3
+VenturaCA,English Not Well,2,2.1
+VenturaCA,English Only,3,94.2
+VenturaCA,English Well,3,5.8
+VenturaCA,English Not Well,3,0.0
+FortLauderdaleFL,English Only,1,42.9
+FortLauderdaleFL,English Well,1,50.7
+FortLauderdaleFL,English Not Well,1,6.4
+FortLauderdaleFL,English Only,2,51.7
+FortLauderdaleFL,English Well,2,48.1
+FortLauderdaleFL,English Not Well,2,0.2
+FortLauderdaleFL,English Only,3,--
+FortLauderdaleFL,English Well,3,--
+FortLauderdaleFL,English Not Well,3,--
+St.LouisMO-IL,English Only,1,21.3
+St.LouisMO-IL,English Well,1,67.5
+St.LouisMO-IL,English Not Well,1,11.3
+St.LouisMO-IL,English Only,2,43.4
+St.LouisMO-IL,English Well,2,49.0
+St.LouisMO-IL,English Not Well,2,7.6
+St.LouisMO-IL,English Only,3,92.0
+St.LouisMO-IL,English Well,3,8.0
+St.LouisMO-IL,English Not Well,3,0.0
+ColumbusOH,English Only,1,19.7
+ColumbusOH,English Well,1,70.9
+ColumbusOH,English Not Well,1,9.4
+ColumbusOH,English Only,2,41.5
+ColumbusOH,English Well,2,51.5
+ColumbusOH,English Not Well,2,7.0
+ColumbusOH,English Only,3,--
+ColumbusOH,English Well,3,--
+ColumbusOH,English Not Well,3,--
+MiamiFL,English Only,1,21.6
+MiamiFL,English Well,1,78.4
+MiamiFL,English Not Well,1,0.0
+MiamiFL,English Only,2,42.0
+MiamiFL,English Well,2,56.1
+MiamiFL,English Not Well,2,1.9
+MiamiFL,English Only,3,--
+MiamiFL,English Well,3,--
+MiamiFL,English Not Well,3,--
+Raleigh-Durham-ChapelHillNC,English Only,1,14.9
+Raleigh-Durham-ChapelHillNC,English Well,1,76.3
+Raleigh-Durham-ChapelHillNC,English Not Well,1,8.8
+Raleigh-Durham-ChapelHillNC,English Only,2,29.8
+Raleigh-Durham-ChapelHillNC,English Well,2,61.4
+Raleigh-Durham-ChapelHillNC,English Not Well,2,8.7
+Raleigh-Durham-ChapelHillNC,English Only,3,--
+Raleigh-Durham-ChapelHillNC,English Well,3,--
+Raleigh-Durham-ChapelHillNC,English Not Well,3,--
+SaltLakeCity-OgdenUT,English Only,1,21.2
+SaltLakeCity-OgdenUT,English Well,1,71.8
+SaltLakeCity-OgdenUT,English Not Well,1,7.0
+SaltLakeCity-OgdenUT,English Only,2,43.1
+SaltLakeCity-OgdenUT,English Well,2,56.2
+SaltLakeCity-OgdenUT,English Not Well,2,0.6
+SaltLakeCity-OgdenUT,English Only,3,100.0
+SaltLakeCity-OgdenUT,English Well,3,0.0
+SaltLakeCity-OgdenUT,English Not Well,3,0.0
+Cleveland-Lorain-ElyriaOH,English Only,1,--
+Cleveland-Lorain-ElyriaOH,English Well,1,--
+Cleveland-Lorain-ElyriaOH,English Not Well,1,--
+Cleveland-Lorain-ElyriaOH,English Only,2,50.4
+Cleveland-Lorain-ElyriaOH,English Well,2,45.7
+Cleveland-Lorain-ElyriaOH,English Not Well,2,3.9
+Cleveland-Lorain-ElyriaOH,English Only,3,--
+Cleveland-Lorain-ElyriaOH,English Well,3,--
+Cleveland-Lorain-ElyriaOH,English Not Well,3,--
+Milwaukee-WaukeshaWI,English Only,1,13.1
+Milwaukee-WaukeshaWI,English Well,1,77.0
+Milwaukee-WaukeshaWI,English Not Well,1,9.8
+Milwaukee-WaukeshaWI,English Only,2,18.2
+Milwaukee-WaukeshaWI,English Well,2,73.8
+Milwaukee-WaukeshaWI,English Not Well,2,8.0
+Milwaukee-WaukeshaWI,English Only,3,93.8
+Milwaukee-WaukeshaWI,English Well,3,6.2
+Milwaukee-WaukeshaWI,English Not Well,3,0.0
+KansasCityMO-KS,English Only,1,29.7
+KansasCityMO-KS,English Well,1,56.1
+KansasCityMO-KS,English Not Well,1,14.2
+KansasCityMO-KS,English Only,2,39.2
+KansasCityMO-KS,English Well,2,58.2
+KansasCityMO-KS,English Not Well,2,2.7
+KansasCityMO-KS,English Only,3,98.0
+KansasCityMO-KS,English Well,3,2.0
+KansasCityMO-KS,English Not Well,3,0.0
+Monmouth-OceanNJ,English Only,1,22.2
+Monmouth-OceanNJ,English Well,1,73.8
+Monmouth-OceanNJ,English Not Well,1,4.0
+Monmouth-OceanNJ,English Only,2,48.5
+Monmouth-OceanNJ,English Well,2,48.5
+Monmouth-OceanNJ,English Not Well,2,3.0
+Monmouth-OceanNJ,English Only,3,--
+Monmouth-OceanNJ,English Well,3,--
+Monmouth-OceanNJ,English Not Well,3,--
